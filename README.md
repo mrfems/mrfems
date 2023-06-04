@@ -9,4 +9,4 @@ mrfems is a ✨ special ✨ repository because its `README.md` (this file) appea
 You can click the Preview link to take a look at your changes.
 --->
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://web.facebook.com/photo/?fbid=10159848636300042&set=a.481578470041.jpg "San Juan Mountains")
