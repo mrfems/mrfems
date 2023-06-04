@@ -1,4 +1,4 @@
-- 👋 Hi, I’m FEMS SEIMIEKUMO SOLOMON
+- 👋 Hi, I’m *FEMS SEIMIEKUMO SOLOMON*
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Software Engineering @ ALX Africa
 - 💞️ I’m looking to collaborate on ...
